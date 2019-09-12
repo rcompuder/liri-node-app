@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require("dotenv").config();
 var axios = require("axios");
 var fs = require("fs");
@@ -33,3 +34,6 @@ axios.get("http://www.omdbapi.com").then(
       }
 
   ])
+=======
+
+>>>>>>> d8ae5be1fd4a2bbedd191b17d62b451fdb191d20
